@@ -1,1 +1,1 @@
-3.9.16-eclipse-temurin-21-alpine
+FROM 3.9.16-eclipse-temurin-21-alpine
